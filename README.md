@@ -68,4 +68,4 @@ at each specific reef site within the NW Shelf Marine Park and the Coral Sea Mar
 I then plan on analysing the current speed (absolute velocity) at each specific reef 
 with a comparison between the speed at each reef and the regional current speed during El nino and La nina years.
 Lastly I plan on analysing the comparison between current speed (absolute velocity) for El nino, la nina and a baseline year for comparison, 
-regonally and e=at each specific reef. 
+regonally and at each specific reef. 
